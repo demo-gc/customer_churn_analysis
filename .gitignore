@@ -1,0 +1,21 @@
+# OS / editor junk
+.DS_Store
+*.swp
+.idea/
+.vscode/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Data (do not upload raw datasets)
+data/raw/*
+!data/raw/README.md
+
+# Virtual environments
+.env/
+.venv/
